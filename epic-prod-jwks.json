@@ -1,1 +1,16 @@
-
+{
+  "keys": [
+    {
+      "alg": "RS384",
+      "e": "AQAB",
+      "ext": true,
+      "key_ops": [
+        "verify"
+      ],
+      "kty": "RSA",
+      "n": "qvN8SzIKGA0QvpdrW50lj_KmMHJx86yKyrCTiysMRGTThtaDNUPsgKCC99e-WHFaVOUfxOshRdfQzOMqlAndenwjMSJddGfy8dSIQzIeqrH8o46ZDok0yOJ9-rBRc8rrcGsgFryEOnqU9hvlSNCNqzjsLlQX3eFazanH7hOsIy_g3YHBJxzXl6Wnzwl_yt6iWeUUZSWsrz13ZL643cQngrzgvbKNCvv0j7Oj7nsacXPAQ_RSsk8-A2vdwpq4NROvmm52ulzdtoIjBw9LUPZgKRqOLggEYXdpgHooi6VXfkocn4GL_pU_NsqzeK80Bj0BHuy50rhAqEY8LvERrb5oCjQ4ecM6I2gGLNwCKddc6ClSpHUMfu_6bkSrYTXmIsQ8ZR6Brl8ErOB86RuA0-ud494MpIGEGIQ5h9Gaxg1f6LsEEoX9saMCZCDlYC_FSmsjEmFjULez_Wh3Wh1ggL2UEDoppUpWFTpH8YqZYEan0T90xlJiR4k8RTmm3fl-Nnvj",
+      "kid": "ams-roi-agent-epic-prod-20260630-ca629254e976",
+      "use": "sig"
+    }
+  ]
+}
